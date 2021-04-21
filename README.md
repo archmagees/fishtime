@@ -19,5 +19,5 @@ archmagees.dev@gmail.com
 
 ## License
 
-[MIT](LICENSE)
+[GPL](LICENSE)
 
